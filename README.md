@@ -1,8 +1,7 @@
 # url2mega
 
-first you need openoprt for port forwarding and megacmd for api and flask and flask_restful
+first you need megacmd for api and flask and flask_restful
 
-openport : https://openport.io
 megacmd : https://mega.nz/cmd
 Flask : pip3 install flask
 Flask_restful : pip3 install Flask_restful
