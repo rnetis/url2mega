@@ -24,4 +24,4 @@ class Index(Resource):
 
 api.add_resource(Mainapp, '/start/<string:url>')
 api.add_resource(Index, '/')
-app.run(debug = True)
+app.run()
